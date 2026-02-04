@@ -1,30 +1,133 @@
 [
+
+{
+        "id": "555",
+        "name": "555",
+        "baseUrl": "https://www.555kdy.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 555
+    },  
    
-    {
+   
+   {
+        "id": "PHB",
+        "name": "PHB",
+        "baseUrl": "https://cn.pornhub.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1AA
+    },  
+   
+   
+   {
+        "id": "cqjyahcr",
+        "name": "全球电视节目观看",
+        "baseUrl": "https://famelack.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1A
+    },  
+
+
+
+   
+  {
+        "id": "lbyf",
+        "name": "泥巴影院",
+        "baseUrl": "https://www.nbyy.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1B
+    },  
+   
+   
+   
+   {
+        "id": "ofiii",
+        "name": "ofiii",
+        "baseUrl": "https://www.ofiii.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1C
+    },  
+   
+   {
+        "id": "szzclyddy",
+        "name": "寻找最佳类似的电影",
+        "baseUrl": "https://leisidianying.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1D
+    },  
+
+   
+   {
+        "id": "olyl",
+        "name": "欧乐影院",
+        "baseUrl": "https://www.olevod.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1F
+    },  
+   
+   
+   
+   {
+        "id": "lfdq",
+        "name": "奈飞工厂",
+        "baseUrl": "https://yanetflix.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1G
+    },  
+   
+   
+   
+   
+   
+   
+   
+   {
+        "id": "kpkuang",
+        "name": "kpkuang",
+        "baseUrl": "https://www.kpkuang.org/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1H
+    },  
+   
+   
+   
+   
+   {
+        "id": "monkey",
+        "name": "monkey",
+        "baseUrl": "https://monkey-flix.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1I
+    }, 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   {
         "id": "gaze",
         "name": "gaze",
         "baseUrl": "https://gaze.run/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1
+        "priority": 1J
     }, 
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        
     
     {
         "id": "feiken",
@@ -32,7 +135,7 @@
         "baseUrl": "https://fktv.me/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1
+        "priority": 1K
     },
        
     
