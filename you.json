@@ -1,4 +1,52 @@
 [
+   
+    {
+        "id": "gaze",
+        "name": "gaze",
+        "baseUrl": "https://gaze.run/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1
+    }, 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+        "id": "feiken",
+        "name": "凡客TV",
+        "baseUrl": "https://fktv.me/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1
+    },
+       
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
         "id": "feifan",
         "name": "非凡资源",
