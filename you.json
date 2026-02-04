@@ -1,12 +1,11 @@
 [
-
 {
         "id": "555",
         "name": "555",
         "baseUrl": "https://www.555kdy.cc/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 555
+        "priority": 59
     },  
    
    
@@ -16,7 +15,7 @@
         "baseUrl": "https://cn.pornhub.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 111
+        "priority": 60
     },  
    
    
@@ -26,7 +25,7 @@
         "baseUrl": "https://famelack.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1112
+        "priority": 61
     },  
 
 
@@ -38,7 +37,7 @@
         "baseUrl": "https://www.nbyy.cc/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1113
+        "priority": 62
     },  
    
    
@@ -49,7 +48,7 @@
         "baseUrl": "https://www.ofiii.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1114
+        "priority": 63
     },  
    
    {
@@ -58,7 +57,7 @@
         "baseUrl": "https://leisidianying.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1115
+        "priority": 64
     },  
 
    
@@ -68,7 +67,7 @@
         "baseUrl": "https://www.olevod.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1116
+        "priority": 65
     },  
    
    
@@ -79,7 +78,7 @@
         "baseUrl": "https://yanetflix.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1117
+        "priority": 66
     },  
    
    
@@ -94,7 +93,7 @@
         "baseUrl": "https://www.kpkuang.org/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1118
+        "priority": 67
     },  
    
    
@@ -106,7 +105,7 @@
         "baseUrl": "https://monkey-flix.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1119
+        "priority": 68
     }, 
    
    
@@ -124,7 +123,7 @@
         "baseUrl": "https://gaze.run/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1120
+        "priority": 69
     }, 
     
         
@@ -135,7 +134,7 @@
         "baseUrl": "https://fktv.me/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1121
+        "priority": 70
     },
        
     
