@@ -9,7 +9,7 @@
         "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 1
+        "priority": 111
     },
     {
         "id": "wolong",
@@ -17,7 +17,7 @@
         "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 2
+        "priority": 211
     },
     {
         "id": "zuida",
@@ -25,7 +25,7 @@
         "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 3
+        "priority": 311
     },
     {
         "id": "baiduyun",
@@ -33,7 +33,7 @@
         "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 4
+        "priority": 411
     },
     {
         "id": "baofeng",
@@ -41,7 +41,7 @@
         "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 5
+        "priority": 511
     },
     {
         "id": "jisu",
@@ -49,7 +49,7 @@
         "baseUrl": "https://jszyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 6
+        "priority": 611
     },
     {
         "id": "tianya",
@@ -57,7 +57,7 @@
         "baseUrl": "https://tyyszy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 7
+        "priority": 711
     },
     {
         "id": "wujin",
@@ -65,7 +65,7 @@
         "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 8
+        "priority": 811
     },
     {
         "id": "modu",
@@ -73,7 +73,7 @@
         "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 9
+        "priority": 911
     },
     {
         "id": "sanliuling",
@@ -81,7 +81,7 @@
         "baseUrl": "https://360zy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 10
+        "priority": 1011
     },
     {
         "id": "dytt",
@@ -89,7 +89,7 @@
         "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 11
+        "priority": 1111
     },
     {
         "id": "ruyi",
@@ -97,7 +97,7 @@
         "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 12
+        "priority": 1211
     },
     {
         "id": "wangwang",
@@ -105,7 +105,7 @@
         "baseUrl": "https://wwzy.tv/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 13
+        "priority": 1311
     },
     {
         "id": "hongniu",
@@ -113,7 +113,7 @@
         "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 14
+        "priority": 1411
     },
     {
         "id": "guangsu",
@@ -121,7 +121,7 @@
         "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 15
+        "priority": 1511
     },
     {
         "id": "ikun",
@@ -129,7 +129,7 @@
         "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 16
+        "priority": 1611
     },
     {
         "id": "youku",
@@ -137,7 +137,7 @@
         "baseUrl": "https://api.ukuapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 17
+        "priority": 1711
     },
     {
         "id": "huya",
@@ -145,7 +145,7 @@
         "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 18
+        "priority": 1811
     },
     {
         "id": "xinlang",
@@ -153,7 +153,7 @@
         "baseUrl": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 19
+        "priority": 1911
     },
     {
         "id": "lezi",
@@ -161,7 +161,7 @@
         "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 20
+        "priority": 2011
     },
     {
         "id": "haihua",
@@ -169,7 +169,7 @@
         "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 21
+        "priority": 2111
     },
     {
         "id": "jiangyu",
@@ -177,7 +177,7 @@
         "baseUrl": "https://jyzyapi.com/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 22
+        "priority": 2211
     },
     {
         "id": "aidan",
@@ -185,7 +185,7 @@
         "baseUrl": "https://lovedan.net/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 23
+        "priority": 2311
     },
     {
         "id": "moduzy",
@@ -193,7 +193,7 @@
         "baseUrl": "https://www.moduzy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 24
+        "priority": 2411
     },
     {
         "id": "feifanapi",
@@ -201,7 +201,7 @@
         "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 25
+        "priority": 2511
     },
     {
         "id": "feifancj",
@@ -209,7 +209,7 @@
         "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 26
+        "priority": 2611
     },
     {
         "id": "feifancj2",
@@ -217,7 +217,7 @@
         "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 27
+        "priority": 271
     },
     {
         "id": "feifan1",
@@ -225,7 +225,7 @@
         "baseUrl": "http://ffzy1.tv/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 28
+        "priority": 281
     },
     {
         "id": "wolong2",
@@ -233,7 +233,7 @@
         "baseUrl": "https://collect.wolongzyw.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 29
+        "priority": 291
     },
     {
         "id": "baofeng2",
@@ -241,7 +241,7 @@
         "baseUrl": "https://app.bfzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 30
+        "priority": 301
     },
     {
         "id": "wujin2",
@@ -249,7 +249,7 @@
         "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 31
+        "priority": 3111
     },
     {
         "id": "tianyazy",
@@ -257,7 +257,7 @@
         "baseUrl": "https://tyyszyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 32
+        "priority": 321
     },
     {
         "id": "guangsu2",
@@ -265,7 +265,7 @@
         "baseUrl": "http://api.guangsuapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 33
+        "priority": 331
     },
     {
         "id": "xinlang2",
@@ -273,7 +273,7 @@
         "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 34
+        "priority": 341
     },
     {
         "id": "yilingba2",
@@ -281,7 +281,7 @@
         "baseUrl": "https://api.1080zyku.com/inc/apijson.php",
         "group": "normal",
         "enabled": true,
-        "priority": 35
+        "priority": 351
     },
     {
         "id": "lezi2",
@@ -289,7 +289,7 @@
         "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 36
+        "priority": 361
     },
     {
         "id": "uku88",
@@ -297,7 +297,7 @@
         "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 37
+        "priority": 371
     },
     {
         "id": "wujincc",
@@ -305,7 +305,7 @@
         "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 38
+        "priority": 381
     },
     {
         "id": "yaya",
@@ -313,7 +313,7 @@
         "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 39
+        "priority": 391
     },
     {
         "id": "wolongcc",
@@ -321,7 +321,7 @@
         "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 40
+        "priority": 401
     },
     {
         "id": "wujinnet",
@@ -329,7 +329,7 @@
         "baseUrl": "https://api.wujinapi.net/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 41
+        "priority": 4111
     },
     {
         "id": "wangwangapi",
@@ -337,7 +337,7 @@
         "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 42
+        "priority": 421
     },
     {
         "id": "zuidame",
@@ -345,7 +345,7 @@
         "baseUrl": "http://zuidazy.me/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 43
+        "priority": 431
     },
     {
         "id": "yinghua",
@@ -353,7 +353,7 @@
         "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 44
+        "priority": 441
     },
     {
         "id": "bubugao",
@@ -361,7 +361,7 @@
         "baseUrl": "https://api.yparse.com/api/json",
         "group": "normal",
         "enabled": true,
-        "priority": 45
+        "priority": 451
     },
     {
         "id": "niuniu",
@@ -369,7 +369,7 @@
         "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 46
+        "priority": 461
     },
     {
         "id": "suoni",
@@ -377,7 +377,7 @@
         "baseUrl": "https://suoniapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 47
+        "priority": 471
     },
     {
         "id": "maotai",
@@ -385,7 +385,7 @@
         "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 48
+        "priority": 481
     },
     {
         "id": "dbzy",
@@ -393,7 +393,7 @@
         "baseUrl": "https://dbzy.tv/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 49
+        "priority": 491
     },
     {
         "id": "subo",
@@ -401,7 +401,7 @@
         "baseUrl": "https://subocaiji.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 50
+        "priority": 501
     },
     {
         "id": "jinying",
@@ -409,7 +409,7 @@
         "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 51
+        "priority": 5111
     },
     {
         "id": "shandian",
@@ -417,7 +417,7 @@
         "baseUrl": "https://sdzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 52
+        "priority": 521
     },
     {
         "id": "piaoling",
@@ -425,7 +425,7 @@
         "baseUrl": "https://p2100.net/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 53
+        "priority": 531
     },
     {
         "id": "modudongman",
@@ -433,7 +433,7 @@
         "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 54
+        "priority": 541
     },
     {
         "id": "hongniu3",
@@ -441,7 +441,7 @@
         "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 55
+        "priority": 551
     },
     {
         "id": "suonisd",
@@ -449,7 +449,7 @@
         "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
-        "priority": 56
+        "priority": 561
     },
     {
         "id": "leba",
@@ -457,7 +457,7 @@
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 1
+        "priority": 111
     },
     {
         "id": "ck",
@@ -465,7 +465,7 @@
         "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 2
+        "priority": 211
     },
     {
         "id": "jkun",
@@ -473,7 +473,7 @@
         "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 3
+        "priority": 311
     },
     {
         "id": "155",
@@ -481,7 +481,7 @@
         "baseUrl": "https://155api.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 4
+        "priority": 411
     },
     {
         "id": "lsb",
@@ -489,7 +489,7 @@
         "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 5
+        "priority": 511
     },
     {
         "id": "hsck",
@@ -497,7 +497,7 @@
         "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 6
+        "priority": 611
     },
     {
         "id": "yutu",
@@ -505,7 +505,7 @@
         "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 7
+        "priority": 711
     },
     {
         "id": "msnii",
@@ -513,7 +513,7 @@
         "baseUrl": "https://www.msnii.com/api/json.php",
         "group": "premium",
         "enabled": true,
-        "priority": 8
+        "priority": 811
     },
     {
         "id": "xrbsp",
@@ -521,7 +521,7 @@
         "baseUrl": "https://www.xrbsp.com/api/json.php",
         "group": "premium",
         "enabled": true,
-        "priority": 9
+        "priority": 911
     },
     {
         "id": "gdlsp",
@@ -529,7 +529,7 @@
         "baseUrl": "https://www.gdlsp.com/api/json.php",
         "group": "premium",
         "enabled": true,
-        "priority": 10
+        "priority": 1011
     },
     {
         "id": "kxgav",
@@ -537,7 +537,7 @@
         "baseUrl": "https://www.kxgav.com/api/json.php",
         "group": "premium",
         "enabled": true,
-        "priority": 11
+        "priority": 1111
     },
     {
         "id": "pgxdy",
@@ -545,7 +545,7 @@
         "baseUrl": "https://www.pgxdy.com/api/json.php",
         "group": "premium",
         "enabled": true,
-        "priority": 12
+        "priority": 121
     },
     {
         "id": "baiwan",
@@ -553,7 +553,7 @@
         "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 13
+        "priority": 131
     },
     {
         "id": "madou",
@@ -561,7 +561,7 @@
         "baseUrl": "https://91md.me/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 14
+        "priority": 141
     },
     {
         "id": "aosika",
@@ -569,7 +569,7 @@
         "baseUrl": "https://aosikazy.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 15
+        "priority": 151
     },
     {
         "id": "naixiang",
@@ -577,7 +577,7 @@
         "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 16
+        "priority": 161
     },
     {
         "id": "senlin",
@@ -585,7 +585,7 @@
         "baseUrl": "https://slapibf.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 17
+        "priority": 171
     },
     {
         "id": "fanhao",
@@ -593,7 +593,7 @@
         "baseUrl": "http://fhapi9.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 18
+        "priority": 181
     },
     {
         "id": "jingpin",
@@ -601,7 +601,7 @@
         "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 19
+        "priority": 191
     },
     {
         "id": "shayu",
@@ -609,7 +609,7 @@
         "baseUrl": "https://shayuapi.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 20
+        "priority": 201
     },
     {
         "id": "xiaoji",
@@ -617,7 +617,7 @@
         "baseUrl": "https://api.xiaojizy.live/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 21
+        "priority": 211
     },
     {
         "id": "xibao",
@@ -625,7 +625,7 @@
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 22
+        "priority": 221
     }
 
 
